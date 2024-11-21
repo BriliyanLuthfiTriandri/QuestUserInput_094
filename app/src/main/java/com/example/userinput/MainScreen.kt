@@ -49,7 +49,7 @@ fun MainScreen(
     var alamatUser by remember { mutableStateOf(" ") }
     var noHPUser by remember { mutableStateOf(" ") }
     var selectedGenderUser by remember { mutableStateOf(" ")}
-
+5
     Column (Modifier.fillMaxSize().padding(16.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ){
